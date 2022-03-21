@@ -1,16 +1,13 @@
-# firebase_test
+# Skill App
 
-A new Flutter project.
+This is a flutter app.
+You can find the released APK 
+[here](https://drive.google.com/file/d/1Va5JAS5j-3YrRR9VMfNC0ubJhdZWTQ-p/view?usp=sharing).
 
-## Getting Started
+In this Project my aim was to implement fireflutter elements. It has Authentication and fire database. 
 
-This project is a starting point for a Flutter application.
+The last flutter version on which I tested it is flutter version 2.11.
 
-A few resources to get you started if this is your first Flutter project:
+Here are some of the demos I provided:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![start with the app](/assets/videos/start%20with%20app.mp4)](/assets/videos/start%20with%20app.mp4)
