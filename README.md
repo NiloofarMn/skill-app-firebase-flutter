@@ -10,4 +10,13 @@ The last flutter version on which I tested it is flutter version 2.11.
 
 Here are some of the demos I provided:
 
-[![start with the app](/assets/videos/start%20with%20app.mp4)](/assets/videos/start%20with%20app.mp4)
+[![start with the app](http://img.youtube.com/vi/cW4OJLQ-7L4/mqdefault.jpg)](https://youtu.be/cW4OJLQ-7L4)
+
+In the video above you can see how the app starts and how you can easily edit you name.
+All other users can see the information one adds.
+
+If you want to just be an observer you can easily enter as a guest.
+
+Also you can edit, add or delete skills:
+
+[![Edit more](http://img.youtube.com/vi/rcJpLoIWFwc/mqdefault.jpg)](https://youtu.be/rcJpLoIWFwc)
